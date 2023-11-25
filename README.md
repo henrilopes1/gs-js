@@ -2,7 +2,7 @@
 
 Bem-vindo ao repositório do projeto Mindwell. Abaixo estão as informações essenciais para acesso e execução do projeto.
 
-#Integrandes do grupo
+# Integrandes do grupo
 
 Henri de Oliveira Lopes - RM98347
 
