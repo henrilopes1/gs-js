@@ -32,18 +32,21 @@ Certifique-se de ter o Node.js e o npm instalados em sua máquina.
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/mindwell.git
+   git clone https://github.com/seu-usuario/gs-js.git
    ```
 
 2. Navegue até o diretório do projeto:
    ```bash
-   cd mindwell
+   cd gs-js
    ```
 
 3. Instale as dependências:
    ```bash
    npm install
    ```
+4. Abra o repositorio
+   ```bash
+   code .
 
 ### Iniciar o Servidor JSON
 
